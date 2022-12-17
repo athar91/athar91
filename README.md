@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @athar91
 - 👀 I’m interested in computational modeling of biomolecule
-- 🌱 I’m currently learning coarse graining simulations
-- 💞️ I’m looking to collaborate on artificial intelligence and machine learning in computational chemistry tools
+- 🌱 I’m currently working on coarse graining and metadynamics simulations. 
+- 💞️ I’m looking to collaborate on artificial intelligence and machine learning in computational chemistry.
 - 📫 How to reach me mathar93@gmail.com
 
 <!---
